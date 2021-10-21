@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Erobot App - Planning: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1jkmRWb4XzkZ4ARgEuwAU-vmyA8iaChrNsPWO6Nh-t4Q)
+- API Repo: [https://github.com/erobot-dev/erobot_api](https://github.com/erobot-dev/erobot_api)
+- Mobile Repo: [https://github.com/erobot-dev/erobot_mobile](https://github.com/erobot-dev/erobot_mobile)
+- Organization: [https://github.com/erobot-dev](https://github.com/erobot-dev)
