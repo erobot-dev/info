@@ -14,6 +14,10 @@ layout: default
       • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
           itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
+      {%- if page.responsible -%}
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">for {{ page.responsible }}</span></span>
+      {%- endif -%}
     </p>
   </header>
 
