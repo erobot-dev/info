@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Search Flow"
+title:  "How to controller robot with E-Robot App"
 date:   2021-10-21
-categories: design
-permalink: design/search-flow
+categories: docs
+permalink: erobot-app-usage
 responsible: Erobot
 ---
-
-# How to controller robot with E-Robot App
 > Note: Work on Android only
 
 ## 1: Install Erobot application
