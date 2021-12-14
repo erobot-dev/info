@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to controller robot with E-Robot App"
-date:   2021-10-21
+date:   2021-12-14
 categories: docs
 permalink: erobot-app-usage
 responsible: Erobot
