@@ -29,19 +29,27 @@ Open the E-Robot app then click on a controller that is available. eg. **Joystic
 
 <table>
   <tr>
-    <td>Step1: Click on **Bluetooth** icon</td>
-    <td>Step2: Click on **Bluetooth**</td>
+    <td>Step1: Click on <b>Bluetooth</b> icon</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/29684683/145953409-a23c501a-4694-43ea-b838-6d38b6255a8d.jpg" /></td>
+  </tr>
+  <tr>
+    <td>Step2: Click on <b>Bluetooth</b></td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/29684683/145953424-ee7d585e-58a6-4412-bce2-97116817eb8e.jpg" /></td>
   </tr>
   <tr>
     <td>Step3: Click on a pair device. eg. HC-5</td>
-    <td>Step4: Done, you can controller them now!</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/29684683/145953432-295dada3-5526-4d6d-a5ab-ee2b9ac0fb9e.jpg" /></td>
+  </tr>
+   <tr>
+    <td>Step4: Done, you can controller them now!</td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/29684683/145953409-a23c501a-4694-43ea-b838-6d38b6255a8d.jpg" /></td>
   </tr>
 </table>
